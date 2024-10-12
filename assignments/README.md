@@ -17,6 +17,9 @@
 
 ##### References
 
-- 
-- 
-- 
+- [Labeling a pie and a donut](https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_and_donut_labels.html)
+- [Pie charts](https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html)
+- [matplotlib.style](https://matplotlib.org/stable/api/style_api.html#matplotlib.style.use)
+- [Style sheets reference](https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html)
+- [Selecting individual colors from a colormap](https://matplotlib.org/stable/gallery/color/individual_colors_from_cmap.html)
+- [How to have actual values in matplotlib Pie Chart displayed](https://stackoverflow.com/questions/41088236/how-to-have-actual-values-in-matplotlib-pie-chart-displayed)
