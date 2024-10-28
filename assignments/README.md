@@ -23,3 +23,16 @@
 - [Style sheets reference](https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html)
 - [Selecting individual colors from a colormap](https://matplotlib.org/stable/gallery/color/individual_colors_from_cmap.html)
 - [How to have actual values in matplotlib Pie Chart displayed](https://stackoverflow.com/questions/41088236/how-to-have-actual-values-in-matplotlib-pie-chart-displayed)
+
+
+#### Assignment 5 risk 
+
+##### References
+
+- [Risk game with python_stackoverflow](https://stackoverflow.com/questions/74421396/risk-game-with-python)
+- [Speed up Risk wargame dice rolling simulation_stackoverflow](https://stackoverflow.com/questions/23885702/speed-up-risk-wargame-dice-rolling-simulation)
+- [Python Random choices() Method](https://www.w3schools.com/python/ref_random_choices.asp)
+- [numpy.column_stack](https://numpy.org/doc/stable/reference/generated/numpy.column_stack.html)
+- [Indexing on ndarrays](https://numpy.org/doc/stable/user/basics.indexing.html)
+- [np.unique](https://numpy.org/doc/stable/reference/generated/numpy.unique.html#numpy-unique)
+- [How to fit the text above the bars plot in matplotlib?](https://stackoverflow.com/questions/71366538/how-to-fit-the-text-above-the-bars-plot-in-matplotlib)
