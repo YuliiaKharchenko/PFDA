@@ -36,3 +36,17 @@
 - [Indexing on ndarrays](https://numpy.org/doc/stable/user/basics.indexing.html)
 - [np.unique](https://numpy.org/doc/stable/reference/generated/numpy.unique.html#numpy-unique)
 - [How to fit the text above the bars plot in matplotlib?](https://stackoverflow.com/questions/71366538/how-to-fit-the-text-above-the-bars-plot-in-matplotlib)
+
+
+#### Assignment 6 Knock airport Weather
+
+##### References
+
+- [Ignore the first space in CSV](https://stackoverflow.com/questions/70801888/ignore-the-first-space-in-csv)
+- [pandas.read_csv](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html)
+- [pandas.to_datetime](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)
+- [matplotlib.pyplot.subplots](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html)
+- [Matplotlib.dates.DateFormatter class in Python](https://www.geeksforgeeks.org/matplotlib-dates-dateformatter-class-in-python/)
+- [pandas.DataFrame.resample](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html)
+- [pandas.Series.rolling](https://pandas.pydata.org/docs/reference/api/pandas.Series.rolling.html)
+- [Working with Missing Data in Pandas](https://www.geeksforgeeks.org/working-with-missing-data-in-pandas/)
