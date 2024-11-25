@@ -2,8 +2,9 @@
 
 import re
 
-regex = "\d{1,3}\.\d{1,3} " # note the space at the end
-replacementText="XXX.XXX " # note the space at the end to match above
+#regex = "\d{1,3}\.\d{1,3} " # this will find other numbers apart from ips
+regex =  "(\d{1,3}\.\d{1,3}\.)\d{1,3}\.\d{1,3}"  # we make a group at the beginning to keep
+replacementText="\\1XXX.XXX " # note the space at the end to match above
 filename = "./access100.log"
 outputFileName = "anonymisedIPs.txt"
 
