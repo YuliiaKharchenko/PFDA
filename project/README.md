@@ -2,6 +2,8 @@
 ***
 
 <div style="text-align: center; color: red;">
+  <h1>The module: "Programming for Data Analytics"</h1>
+  
   <h1>The project: "Wind Speed Analysis around the Ireland with a view to Wind Farm"</h1>
 </div>
 
