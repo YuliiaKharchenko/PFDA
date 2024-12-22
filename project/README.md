@@ -46,9 +46,10 @@
 5. [How Wind Power Works](https://science.howstuffworks.com/environmental/green-science/wind-power.htm)
 6. [Knot (unit)](https://en.wikipedia.org/wiki/Knot_(unit))
 7. [Alternative energy tutorials](https://www.alternative-energy-tutorials.com/category/wind-energy)
-8. 
-[]()
-[]()
+8. [Advice on automating datamining with Python](https://stackoverflow.com/questions/41739786/advice-on-automating-datamining-with-python)
+9. [Python class design for data processing](https://stackoverflow.com/questions/64739329/python-class-design-for-data-processing)
+10. [Python Design Pattern: using class attributes to store data vs. local function variables](https://stackoverflow.com/questions/55706215/python-design-pattern-using-class-attributes-to-store-data-vs-local-function-v)
+11. []()
 
 
 1.https://www.linkedin.com/pulse/wind-power-analysis-horizontal-axis-turbine-python-ivan-defaz-jselc/
