@@ -49,7 +49,7 @@
 8. [Advice on automating datamining with Python](https://stackoverflow.com/questions/41739786/advice-on-automating-datamining-with-python)
 9. [Python class design for data processing](https://stackoverflow.com/questions/64739329/python-class-design-for-data-processing)
 10. [Python Design Pattern: using class attributes to store data vs. local function variables](https://stackoverflow.com/questions/55706215/python-design-pattern-using-class-attributes-to-store-data-vs-local-function-v)
-11. []()
+11. [List of wind farms in the Republic of Ireland](https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland)
 
 
 1.https://www.linkedin.com/pulse/wind-power-analysis-horizontal-axis-turbine-python-ivan-defaz-jselc/
