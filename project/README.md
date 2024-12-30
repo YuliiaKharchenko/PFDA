@@ -35,23 +35,3 @@
 | 5. Use a database                 |                                                                                                |
 
 
-
-
-## References: 
-
-1. [Renewable energy](https://en.wikipedia.org/wiki/Renewable_energy)
-2. [Wind power in Ireland](https://en.wikipedia.org/wiki/Wind_power_in_Ireland)
-3. [windenergyireland_interactive map](https://windenergyireland.com/about-wind/interactve-map)
-4. [Wind turbine](https://en.wikipedia.org/wiki/Wind_turbine)
-5. [How Wind Power Works](https://science.howstuffworks.com/environmental/green-science/wind-power.htm)
-6. [Knot (unit)](https://en.wikipedia.org/wiki/Knot_(unit))
-7. [Alternative energy tutorials](https://www.alternative-energy-tutorials.com/category/wind-energy)
-8. [Advice on automating datamining with Python](https://stackoverflow.com/questions/41739786/advice-on-automating-datamining-with-python)
-9. [Python class design for data processing](https://stackoverflow.com/questions/64739329/python-class-design-for-data-processing)
-10. [Python Design Pattern: using class attributes to store data vs. local function variables](https://stackoverflow.com/questions/55706215/python-design-pattern-using-class-attributes-to-store-data-vs-local-function-v)
-11. [List of wind farms in the Republic of Ireland](https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland)
-12. [Wind Power Analysis for a Horizontal Axis Wind Turbine with Python](https://www.linkedin.com/pulse/wind-power-analysis-horizontal-axis-turbine-python-ivan-defaz-jselc/)
-13. [Wind Energy Simplified: From Basics to Advanced Power Calculation with Complete Python Code](https://medium.com/@thebinayak/wind-energy-simplified-from-basics-to-advanced-power-calculation-with-complete-python-code-4d3ec3cb0023)
-14. [11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
-15. [Comprehensive Guide to Time Series Data Analytics and Forecasting with Python](https://medium.com/@nomannayeem/comprehensive-guide-to-time-series-data-analytics-and-forecasting-with-python-2c82de2c8517)
-16. [A Guide to Time Series Forecasting in Python](https://builtin.com/data-science/time-series-forecasting-python)
