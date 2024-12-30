@@ -2,7 +2,7 @@
 ***
 
 <div style="text-align: center; color: red;">
-  <h1>The module: "Programming for Data Analytics"</h1>
+  <h1>Programming for Data Analytics module</h1>
 
   <h1>The project: "Wind Speed Analysis around the Ireland with a view to Wind Farm"</h1>
 </div>
@@ -13,7 +13,7 @@
 
 ## Project Objectives:
 
-1. Analyze historical wind speed data across Ireland.
+1. Analyse historical wind speed data across Ireland.
 2. Determine optimal locations for wind farms based on wind speed trends and operational ranges.
 3. Identify potential future wind power trends and variability.
 4. Explore other weather metrics (e.g., temperature, rainfall) that might influence wind farm operations.
@@ -25,10 +25,10 @@
 |--------------------------------|---------------------------------------------------------------------------------------------------|
 | **Minimum Project**            |                                                                                                   |
 | 1. Read in/acquire/make up, a number of good data sets |                                                                           |
-| 2. Analyze the data using various techniques, we have covered in this module|                                                      |
+| 2. Analyse the data using various techniques, we have covered in this module|                                                      |
 | 3. Some nice-looking plots to illustrate our findings. |                                                                           |
 | **Features we can add**        |                                                                                                   |
-| 1. Increase the range of data we are analyzing |                                                                                   |
+| 1. Increase the range of data we are analysing |                                                                                   |
 | 2. Use more features of SciKitLearn and other packages that we find useful |                                                       |
 | 3. Provide meaningful insights    |                                                                                                |
 | 4. Increase the complexity of our plots without reducing readability |                                                             |
@@ -50,7 +50,8 @@
 9. [Python class design for data processing](https://stackoverflow.com/questions/64739329/python-class-design-for-data-processing)
 10. [Python Design Pattern: using class attributes to store data vs. local function variables](https://stackoverflow.com/questions/55706215/python-design-pattern-using-class-attributes-to-store-data-vs-local-function-v)
 11. [List of wind farms in the Republic of Ireland](https://en.wikipedia.org/wiki/List_of_wind_farms_in_the_Republic_of_Ireland)
-
-
-1.https://www.linkedin.com/pulse/wind-power-analysis-horizontal-axis-turbine-python-ivan-defaz-jselc/
-2.https://medium.com/@thebinayak/wind-energy-simplified-from-basics-to-advanced-power-calculation-with-complete-python-code-4d3ec3cb0023
+12. [Wind Power Analysis for a Horizontal Axis Wind Turbine with Python](https://www.linkedin.com/pulse/wind-power-analysis-horizontal-axis-turbine-python-ivan-defaz-jselc/)
+13. [Wind Energy Simplified: From Basics to Advanced Power Calculation with Complete Python Code](https://medium.com/@thebinayak/wind-energy-simplified-from-basics-to-advanced-power-calculation-with-complete-python-code-4d3ec3cb0023)
+14. [11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
+15. [Comprehensive Guide to Time Series Data Analytics and Forecasting with Python](https://medium.com/@nomannayeem/comprehensive-guide-to-time-series-data-analytics-and-forecasting-with-python-2c82de2c8517)
+16. [A Guide to Time Series Forecasting in Python](https://builtin.com/data-science/time-series-forecasting-python)
